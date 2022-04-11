@@ -167,6 +167,7 @@ li {
 	justify-content: center;
 }
 .section-container-center {
+	width: 100%;
 	max-width: 550px;
 	margin: auto;
 }
